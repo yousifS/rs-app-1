@@ -1,3 +1,7 @@
+rc.db
+logs/
+
+.idea/
 target/
 pom.xml.tag
 pom.xml.releaseBackup
