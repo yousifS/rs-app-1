@@ -5,8 +5,9 @@ To compile
 $ mvn clean package
 ```
 
-To Run ```
-java -cp target/dependency/*:target/rs-1.0-SNAPSHOT.jar  org.ys.tutorial.AppServer
+To Run 
+``` bash
+$ java -cp target/dependency/*:target/rs-1.0-SNAPSHOT.jar  org.ys.tutorial.AppServer
 ```
 
 To try it
